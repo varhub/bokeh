@@ -86,7 +86,7 @@ test:
     - networkx
     - icalendar
     - flask
-    - flexx
+    - pscript
     - pyshp
 
   commands:
